@@ -1,1 +1,1 @@
-# CausalPlan-Empowering-Efficient-LLM-Multi-Agent-Coordi--nation-Through-Causality-Inspired-Planning
+# CausalPlan-Empowering-Efficient-LLM-Multi-Agent-Coordination-Through-Causality-Inspired-Planning
