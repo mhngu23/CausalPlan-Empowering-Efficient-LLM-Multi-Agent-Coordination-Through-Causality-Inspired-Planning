@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets
+secrets.env
+*.env
+
+# Pretrained partner models (download separately, see README)
+models/
+
+# Experiment outputs and logs
+src/experiments/
+wandb/
+*.log
+*.out
+*.err
+
+# Collected trajectory buffers (large)
+data/*buffer*.pt
+data/output_file*.pt
+
+# Cached medium-level planners (regenerated automatically)
+lib/overcooked_ai/overcooked_ai_py/data/planners/*.pkl
